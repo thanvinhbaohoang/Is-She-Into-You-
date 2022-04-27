@@ -1,10 +1,10 @@
-// change require to es6 import style
-// import $ from 'jquery';
 import $ from 'jquery';
 import './style.scss';
+// const $ = require('jquery');
 
-$('#main').html('Here we go!');
-// THIS IS SUPPOSED TO BE THE TIMER
+$('#main').html('Here we go! askflbaslkdflkjasdfn');
+console.log('TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT');
+
 let seconds = 0;
 
 function incrementSeconds() {
